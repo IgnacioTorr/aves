@@ -1,0 +1,17 @@
+bezier
+scattertext
+adjustText
+matplotlib-scalebar
+git+https://github.com/zorzalerrante/scikit-fusion
+pymunk
+emoji
+xlrd
+shifterator
+flashtext
+alphashape
+s2sphere
+lxml
+sphinx-basic-ng
+furo
+pyreadstat
+KDEpy
